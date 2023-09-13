@@ -1,0 +1,2 @@
+String s="hello world";
+System.out.println("the string is: "+s);
